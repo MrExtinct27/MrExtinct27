@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">👨🏻‍💻 About me</h2>
 
 ###
 
@@ -77,10 +77,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MrExtinct27/MrExtinct27/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-
+<p align="center">
+  <img width="500" height="200" src="https://github.com/user-attachments/assets/4c2638c3-5467-4e5e-ba12-3de4906e68e7">
+</p>
 
 ###
